@@ -5,15 +5,15 @@ class Config:
 
     BOT_TOKEN = os.environ.get("8293399742:AAEeOrAoDTd2qkwoyhfd5YOnC9dHNo_bVIM")
 
-    SESSION_NAME = os.environ.get("HR_Phish_bot", ":memory:")
+    SESSION_NAME = os.environ.get("HR_Phish_bot", "HR_Phish_bot")
 
     API_ID = int(os.environ.get("28583543"))
 
     API_HASH = os.environ.get("24fd6e53b6034ccbda0bfd62dfd47ad3")
 
-    CLIENT_ID = os.environ.get("180064799903-ihosiokdglohin0giqr0pg872j5i76t7.apps.googleusercontent.com")
+    CLIENT_ID = os.environ.get("180064799903-5hg7cmq4jfi06qffro3kp9ocv6epcr3e.apps.googleusercontent.com")
 
-    CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
+    CLIENT_SECRET = os.environ.get("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")
 
     BOT_OWNER = int(os.environ.get("7990155194"))
 
