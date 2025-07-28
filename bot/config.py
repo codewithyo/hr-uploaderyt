@@ -15,7 +15,7 @@ class Config:
 
     CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 
-    BOT_OWNER = int(os.environ.get("BOT_OWNER"))
+    BOT_OWNER = int(os.environ.get("7990155194"))
 
     AUTH_USERS_TEXT = os.environ.get("AUTH_USERS", "7990155194,7612404009")
 
