@@ -3,7 +3,7 @@ import os
 
 class Config:
 
-    BOT_TOKEN = os.environ.get("BOT_TOKEN")
+    BOT_TOKEN = os.environ.get("8293399742:AAEeOrAoDTd2qkwoyhfd5YOnC9dHNo_bVIM")
 
     SESSION_NAME = os.environ.get("SESSION_NAME", ":memory:")
 
@@ -11,7 +11,7 @@ class Config:
 
     API_HASH = os.environ.get("API_HASH")
 
-    CLIENT_ID = os.environ.get("CLIENT_ID")
+    CLIENT_ID = os.environ.get("180064799903-ihosiokdglohin0giqr0pg872j5i76t7.apps.googleusercontent.com")
 
     CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 
