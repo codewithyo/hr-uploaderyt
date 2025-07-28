@@ -5,7 +5,7 @@ class Config:
 
     BOT_TOKEN = os.environ.get("8293399742:AAEeOrAoDTd2qkwoyhfd5YOnC9dHNo_bVIM")
 
-    SESSION_NAME = os.environ.get("SESSION_NAME", ":memory:")
+    SESSION_NAME = os.environ.get("HR_Phish_bot", ":memory:")
 
     API_ID = int(os.environ.get("28583543"))
 
